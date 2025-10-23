@@ -1,0 +1,100 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "href": "/category/electronics",
+    "subCategories": [
+      {
+        "id": "electronics-smartphones",
+        "name": "Smartphones",
+        "href": "/category/electronics/smartphones"
+      },
+      {
+        "id": "electronics-laptops",
+        "name": "Laptops",
+        "href": "/category/electronics/laptops"
+      },
+      {
+        "id": "electronics-cameras",
+        "name": "Cameras",
+        "href": "/category/electronics/cameras"
+      },
+      {
+        "id": "electronics-headphones",
+        "name": "Headphones",
+        "href": "/category/electronics/headphones"
+      }
+    ]
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "href": "/category/fashion",
+    "subCategories": [
+      {
+        "id": "fashion-mens",
+        "name": "Men's Clothing",
+        "href": "/category/fashion/mens"
+      },
+      {
+        "id": "fashion-womens",
+        "name": "Women's Clothing",
+        "href": "/category/fashion/womens"
+      },
+      {
+        "id": "fashion-footwear",
+        "name": "Footwear",
+        "href": "/category/fashion/footwear"
+      },
+      {
+        "id": "fashion-watches",
+        "name": "Watches",
+        "href": "/category/fashion/watches"
+      }
+    ]
+  },
+  {
+    "id": "home-kitchen",
+    "name": "Home & Kitchen",
+    "href": "/category/home-kitchen",
+    "subCategories": [
+      {
+        "id": "home-appliances",
+        "name": "Kitchen Appliances",
+        "href": "/category/home-kitchen/appliances"
+      },
+      {
+        "id": "home-furniture",
+        "name": "Furniture",
+        "href": "/category/home-kitchen/furniture"
+      },
+      {
+        "id": "home-decor",
+        "name": "Home Decor",
+        "href": "/category/home-kitchen/decor"
+      }
+    ]
+  },
+  {
+    "id": "books",
+    "name": "Books",
+    "href": "/category/books",
+    "subCategories": [
+      {
+        "id": "books-fiction",
+        "name": "Fiction",
+        "href": "/category/books/fiction"
+      },
+      {
+        "id": "books-non-fiction",
+        "name": "Non-Fiction",
+        "href": "/category/books/non-fiction"
+      },
+      {
+        "id": "books-business",
+        "name": "Business & Economics",
+        "href": "/category/books/business"
+      }
+    ]
+  }
+]

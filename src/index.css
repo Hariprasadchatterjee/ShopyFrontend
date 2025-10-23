@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+
+/* 2. Define your theme customizations */
+@theme {
+  
+    
+}
+
+/* 3. Add your custom base styles to the 'base' layer */
+@layer base {
+  body {
+    background-color: #0b101d;
+  }
+  h1 {
+    @apply font-medium;
+  }
+}
+
+/* 4. (Optional) Add custom component classes to the 'components' layer */
+@layer components {
+  .animate-infinite-scroll {
+    animation: infinite-scroll 25s linear infinite;
+  }
+  @keyframes infinite-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-100%); }
+}
+ .group:hover .animate-infinite-scroll {
+    animation-play-state: paused;
+  }
+}
